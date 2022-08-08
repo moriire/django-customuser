@@ -19,5 +19,12 @@
 Open models.py
 
 ```sh
- cd django_customuser
+from django.db import models
+from django.utils.translation import gettext as _
+from django.utils import timezone
+from .base import CustomBaseUser
+
+class CustomUser(CustomBaseUser):
+    pass
+    
 ```
