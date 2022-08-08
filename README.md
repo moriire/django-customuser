@@ -25,6 +25,15 @@ from django.utils import timezone
 from .base import CustomBaseUser
 
 class CustomUser(CustomBaseUser):
-    pass
+    pass # Leave this way if you require normal django auth data
+    """
+    Other models methods:
+    - CharField
+    - IntegerField
+    - BooleanField
+    - ImageField
+    - DateTimeField
+    
+    """
     
 ```
