@@ -15,3 +15,9 @@
 ```sh
  cd django_customuser
 ```
+## Well documented and easy to use for beginners
+Open models.py
+
+```sh
+ cd django_customuser
+```
