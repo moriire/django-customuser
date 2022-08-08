@@ -10,7 +10,7 @@
 - ##### Registration/Login/Logout
 - ##### Urls
 ```sh
- git clone --depth 1 https://www.github.com/moriire/django-customuser
+ git clone --depth 1 https://www.github.com/moriire/django_customuser
 ```
 ```sh
  cd django_customuser
