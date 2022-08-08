@@ -1,4 +1,4 @@
-# django-cstomuser
+# django_cstomuser
 ## _DRY - No need to create new user app from scratch_
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
